@@ -20,6 +20,7 @@ const Technologies = () => {
     "github",
     "html5",
     "css3",
+    "vuejs"
   ]
   return (
     <>
